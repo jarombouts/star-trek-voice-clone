@@ -6,31 +6,19 @@ Give your AI coding assistant the voice of a Starfleet computer. Audible notific
 
 Claude Code speaks to you out loud — task completions, errors, nudges — in the dry, mildly sarcastic tone of a federation computer that's seen too many warp core breaches.
 
-## Samples
-
-> "Pipeline failure detected. Your attention is required."
-
-https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/pipeline_failure.mp3
-
-> "I am a fast, but dumb computer."
-
-https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/i_am_a_fast_but_dumb_computer.mp3
-
-> "Build complete. All tests passing. You're welcome."
-
-https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/build_complete.mp3
-
-> "Unable to comply. Test suite has failed. Again."
-
-https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/unable_to_comply.mp3
-
-> "Awaiting further instructions. Captain appears to be idle."
-
-https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/awaiting_instructions.mp3
-
 ## Demo
 
-<video src="unable to comply.mov" controls autoplay muted></video>
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/unable_to_comply_demo.mp4
+
+## Samples
+
+| | Message | Listen |
+|---|---|---|
+| 1 | *"Pipeline failure detected. Your attention is required."* | [▶ Play](https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/pipeline_failure.mp3) |
+| 2 | *"I am a fast, but dumb computer."* | [▶ Play](https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/i_am_a_fast_but_dumb_computer.mp3) |
+| 3 | *"Build complete. All tests passing. You're welcome."* | [▶ Play](https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/build_complete.mp3) |
+| 4 | *"Unable to comply. Test suite has failed. Again."* | [▶ Play](https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/unable_to_comply.mp3) |
+| 5 | *"Awaiting further instructions. Captain appears to be idle."* | [▶ Play](https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/awaiting_instructions.mp3) |
 
 ## Setup
 
