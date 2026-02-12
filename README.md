@@ -1,6 +1,6 @@
 # Star Trek Computer Voice for Claude Code
 
-Give your AI coding assistant the voice of a Starfleet computer. Audible notifications through macOS speakers using ElevenLabs TTS and a cloned LCARS voice.
+Give your AI coding assistant the voice of a Starfleet computer. Audible notifications through macOS speakers using ElevenLabs TTS and a voice cloned from [Majel Barrett-Roddenberry](https://en.wikipedia.org/wiki/Majel_Barrett) — the actress who voiced the Federation computer across every Star Trek series from TOS through Enterprise, and every film up to her passing in 2008.
 
 ## What this does
 
