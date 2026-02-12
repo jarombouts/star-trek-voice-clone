@@ -8,6 +8,8 @@ Claude Code speaks to you out loud — task completions, errors, nudges — in t
 
 ## Demo
 
+<video src="unable to comply.mov" controls autoplay muted></video>
+
 > "Build complete. All tests passing. You're welcome."
 
 > "Unable to comply. Test suite has failed. Again."
