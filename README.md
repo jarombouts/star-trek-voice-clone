@@ -6,15 +6,31 @@ Give your AI coding assistant the voice of a Starfleet computer. Audible notific
 
 Claude Code speaks to you out loud — task completions, errors, nudges — in the dry, mildly sarcastic tone of a federation computer that's seen too many warp core breaches.
 
-## Demo
+## Samples
 
-<video src="unable to comply.mov" controls autoplay muted></video>
+> "Pipeline failure detected. Your attention is required."
+
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/pipeline_failure.mp3
+
+> "I am a fast, but dumb computer."
+
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/i_am_a_fast_but_dumb_computer.mp3
 
 > "Build complete. All tests passing. You're welcome."
 
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/build_complete.mp3
+
 > "Unable to comply. Test suite has failed. Again."
 
-> "Warning. Your test suite is a mess."
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/unable_to_comply.mp3
+
+> "Awaiting further instructions. Captain appears to be idle."
+
+https://github.com/jarombouts/star-trek-voice-clone/raw/main/samples/awaiting_instructions.mp3
+
+## Demo
+
+<video src="unable to comply.mov" controls autoplay muted></video>
 
 ## Setup
 
