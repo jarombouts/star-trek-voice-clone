@@ -74,4 +74,8 @@ Add the contents of `CLAUDE.md` to your `~/.claude/CLAUDE.md` to have Claude pro
 
 ## License
 
-Do whatever you want with this. Starfleet Command is not liable for any resulting productivity loss.
+Audio files were grabbed off https://www.trekcore.com/audio/, if it wasn't for their hard work this wouldn't have been so easy.
+
+There is obviously the question of legality and ownership. 
+
+Do whatever you want with this. Keep it personal and non-commercial. Starfleet Command is not liable for any resulting productivity loss.
