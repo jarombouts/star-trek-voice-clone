@@ -24,7 +24,7 @@ Upload the sample MP3 files from this repo as training data for an [ElevenLabs I
 
 - `group_1.mp3` through `group_9.mp3`
 
-Upload a few of these when creating your voice clone. More samples = better quality.
+Upload a few of these when creating your voice clone. More samples = better quality up to a point, feel free to source more samples online. This should be already an acceptable amount of input data tho.
 
 ### 2. Set up the script
 
