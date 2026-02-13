@@ -10,7 +10,7 @@ Claude Code speaks to you out loud — task completions, errors, nudges — in t
 
 https://github.com/jarombouts/star-trek-voice-clone/raw/main/unable_to_comply_demo.mp4
 
-## Samples
+## Example voice synthesis output
 
 | | Message | Listen |
 |---|---|---|
